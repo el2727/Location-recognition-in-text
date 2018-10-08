@@ -9,7 +9,7 @@ from sklearn.datasets import load_files
 
 # Loading data using sklearn load_files function
 
-data_folder = 'data_structure_for_classification/'
+data_folder = 'data_folder/' # Path to folder with data
 all_data = load_files(data_folder)
 
 # Saving and loading all text documents
