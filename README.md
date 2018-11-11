@@ -7,4 +7,4 @@
 
 ### Next step: run this on corpus. Use existing corpus or create one using Google News API.
 
-### NLTK Gazeetteer - cities and countries
+### NLTK Gazetteer - cities and countries
